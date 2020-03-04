@@ -1,0 +1,11 @@
+c:\C#\SmallApp\bin\Debug\netcoreapp3.1\SmallApp.exe
+C:\C#\SmallApp\bin\Debug\netcoreapp3.1\SmallApp.deps.json
+C:\C#\SmallApp\bin\Debug\netcoreapp3.1\SmallApp.runtimeconfig.json
+C:\C#\SmallApp\bin\Debug\netcoreapp3.1\SmallApp.runtimeconfig.dev.json
+c:\C#\SmallApp\bin\Debug\netcoreapp3.1\SmallApp.dll
+c:\C#\SmallApp\bin\Debug\netcoreapp3.1\SmallApp.pdb
+c:\C#\SmallApp\obj\Debug\netcoreapp3.1\SmallApp.csprojAssemblyReference.cache
+c:\C#\SmallApp\obj\Debug\netcoreapp3.1\SmallApp.AssemblyInfoInputs.cache
+c:\C#\SmallApp\obj\Debug\netcoreapp3.1\SmallApp.AssemblyInfo.cs
+c:\C#\SmallApp\obj\Debug\netcoreapp3.1\SmallApp.dll
+c:\C#\SmallApp\obj\Debug\netcoreapp3.1\SmallApp.pdb
